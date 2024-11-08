@@ -1,6 +1,5 @@
 # Dulshan Chamika
 
-<img src="https://user-images.githubusercontent.com/123464360/218903420-6aa68a9e-5be9-4345-b7d4-b3f6c3dc8f52.png" alt="Dulshan Chamika" width="150" align="right">
 
 ## Welcome to my GitHub Profile!
 
