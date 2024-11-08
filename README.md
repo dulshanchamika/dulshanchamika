@@ -11,8 +11,7 @@ Hi there, I'm Dulshan Chamika, a 23-year-old undergraduate student at Saegis Cam
 - 🎓 I'm currently pursuing a Computer Science degree at SLIIT.
 - 💻 My areas of interest include building websites and web apps, AI.
 - 🤝 I'm always on the lookout for opportunities to collaborate on projects related to my interests.
-- 📫 You can reach me at [it23646360@my.sliit.lk](mailto:it23646360@my.sliit.lk) or text me on WhatsApp at +94713910417.
-- 📸 For updates on my activities, feel free to follow me on [Instagram](https://www.instagram.com/dulshanchamika/).
+- 📸 For updates on my activities, feel free to follow me on [Linkedin](https://www.linkedin.com/in/dulshanchamika).
 
 ### GitHub Stats
 
