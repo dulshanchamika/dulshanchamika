@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a> </p>
 
 - 🌱 I’m currently learning **ML , AI and Python**
+- 📫 How to reach me **dulshancw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
