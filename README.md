@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Laravel.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Laravel-Light.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/e13372a5348d1e4e98e972bbc07b6d1dfa71954e/icons/C.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/CSS.svg" alt="css3" width="40" height="40"/> </a>
