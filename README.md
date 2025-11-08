@@ -60,7 +60,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Illustrator.svg" alt="illustrator"   width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&locale=en" alt="dulshanchamika" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&locale=en" alt="dulshanchamika" /></p>
 
