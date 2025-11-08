@@ -8,7 +8,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a> </p>
 <p align="center">
-- 🌱 I’m currently learning **React & Laravel**
+- 🌱 I’m currently learning <h3>React & Laravel</h3>
   </p>
 <p align="center"> 
 - 📫 How to reach me **dulshancw@gmail.com**
