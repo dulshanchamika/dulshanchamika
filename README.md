@@ -4,22 +4,22 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulshanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="dulshanchamika" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dulshanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="dulshanchamika" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a> </p>
 
 - 🌱 I’m currently learning **React & Laravel**
 - 📫 How to reach me **dulshancw@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dulshanchamika" target="blank"><img align="center" src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/LinkedIn.svg" alt="jjhj" height="30" width="40" /></a>
 <a href="https://fb.com/dulshanchamika2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bjhhh" height="30" width="40" /></a>
 <a href="https://instagram.com/dulshan__chamika" target="blank"><img align="center" src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Instagram.svg" alt="jvjh" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/React-Light.svg" alt="react.js" width="40" height="40"/> </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/NextJS-Light.svg" alt="next.js" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> </a>
@@ -55,7 +55,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Illustrator.svg" alt="illustrator"   width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&locale=en" alt="dulshanchamika" /></p>
 
