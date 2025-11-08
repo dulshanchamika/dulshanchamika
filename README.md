@@ -37,6 +37,7 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
   
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Git.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Github-Light.svg" alt="github" width="40" height="40"/> </a>
@@ -44,19 +45,14 @@
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Vercel-Light.svg" alt="vercel" width="40" height="40"/> </a>
 
-  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/e13372a5348d1e4e98e972bbc07b6d1dfa71954e/icons/C.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Python-Light.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Java-Light.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Linux-Light.svg" alt="linux" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Figma-Light.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/dc685cf5f3a3e286254702e2b69a575e77187245/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>     </a>
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Illustrator.svg" alt="illustrator"   width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
