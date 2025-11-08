@@ -18,7 +18,7 @@
 <a href="https://instagram.com/dulshan__chamika" target="blank"><img align="center" src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Instagram.svg" alt="jvjh" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://react.dev" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/React-Light.svg" alt="react.js" width="40" height="40"/> </a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/NextJS-Light.svg" alt="next.js" width="40" height="40"/> </a>
