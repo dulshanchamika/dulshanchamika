@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning <b>React & Laravel</b>
   </p>
 <p align="center"> 
-- 📫 How to reach me **dulshancw@gmail.com**
+- 📫 How to reach me <b>dulshancw@gmail.com</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
