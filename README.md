@@ -6,7 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulshanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="dulshanchamika" /> </p>
 
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulshanchamika" alt="dulshanchamika" /></a>
 <p align="center">
 - 🌱 I’m currently learning <b>React & Laravel</b>
   </p>
@@ -63,7 +62,4 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Illustrator.svg" alt="illustrator"   width="40" height="40"/> </a> 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulshanchamika&show_icons=true&locale=en&layout=compact" alt="dulshanchamika" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&locale=en" alt="dulshanchamika" /></p>
 
