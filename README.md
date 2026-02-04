@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dulshanchamika&label=Profile%20views&color=0e75b6&style=flat" alt="dulshanchamika" /> </p>
 
 <p align="center">
-- 🌱 I’m currently learning <b>React & Laravel</b>
+- 🌱 I’m currently learning <b>Machine Learning</b>
   </p>
 <p align="center"> 
 - 📫 How to reach me <b>dulshancw@gmail.com</b>
