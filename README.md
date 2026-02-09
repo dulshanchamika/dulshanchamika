@@ -11,8 +11,8 @@
 - 🧠 Currently focusing on <b>MLOps</b> and <b>Deep Learning</b> architectures. <br>
   </p>
   
-<p align="center"> 
-- 📫 How to reach me <b>dulshancw@gmail.com</b>
+<p align="center">
+  📫 How to reach me: <b><a href="mailto:dulshancw@gmail.com">dulshancw@gmail.com</a></b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -68,11 +68,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&theme=tokyonight" alt="Dulshan's Stats" />
 </p>
-
-<h3 align="center">📫 Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/dulshanchamika" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:dulshancw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" /></a>
-</p>
-
 
