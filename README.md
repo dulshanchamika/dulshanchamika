@@ -85,10 +85,10 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 <h3 align="center">⚙️ Tools & Infrastructure</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Github-Light.svg" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" />
+  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Vercel-Light.svg" alt="vercel" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
 </p>
@@ -97,9 +97,9 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dulshanchamika&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulshanchamika&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dulshanchamika&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
