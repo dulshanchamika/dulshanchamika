@@ -39,7 +39,7 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 
 <h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
-• Bias-Aware Explainable Robo-Advisory System (Final Year Research)<br>
+• Bias-Aware Explainable Robo-Advisory System (Final Year Research - Ongoing)<br>
 • Full-Stack Movie Watchlist Application (MERN + Prisma)<br>
 • ML Model Deployment using Docker & BentoML<br>
 </p>
@@ -60,9 +60,9 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 <h3 align="center">🌐 Full-Stack Development</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" />
+  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/NextJS-Light.svg" alt="next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/ExpressJS-Light.svg" alt="expressjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" />
 </p>
@@ -70,7 +70,7 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />
+  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/TailwindCSS-Light.svg" alt="tailwindcss" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
 </p>
 
@@ -85,10 +85,10 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 <h3 align="center">⚙️ Tools & Infrastructure</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Github-Light.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" />
-  <img src="https://github.com/dulshanchamika/dulshanchamika/blob/main/icons/Vercel-Light.svg" alt="vercel" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
 </p>
@@ -97,9 +97,9 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dulshanchamika&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulshanchamika&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dulshanchamika&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulshanchamika&layout=compact&theme=tokyonight" />
 </p>
