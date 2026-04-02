@@ -17,7 +17,7 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 </p>
 
 <p align="center">
-📫 Reach me at: <b><a href="mailto:dulshancw@gmail.com">dulshancw@gmail.com</a></b>
+📫 Reach me at: <b><a href="mailto:dulshancw@gmail.com">dulshanchamika2@gmail.com</a></b>
 </p>
 
 ---
