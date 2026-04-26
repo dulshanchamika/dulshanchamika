@@ -23,6 +23,7 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 ---
 
 <p align="center">
+  <b>🔗 Connect with Me:</b>
   <table align="center">
     <tr>
       <td>
