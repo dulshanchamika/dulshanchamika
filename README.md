@@ -23,15 +23,14 @@ Final-Year Computer Science Undergraduate | Full-Stack Developer | AI & ML Enthu
 ---
 
 <p align="center">
-  <b>🔗 Connect with Me:</b>
   <a href="https://linkedin.com/in/dulshanchamika" target="_blank">
-    <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/LinkedIn.svg" height="30" width="40" style="vertical-align:middle;"/>
+    <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/LinkedIn.svg" height="30" width="40" />
   </a>
   <a href="https://fb.com/dulshanchamika2" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" style="vertical-align:middle;"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
   </a>
   <a href="https://instagram.com/dulshan__chamika" target="_blank">
-    <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Instagram.svg" height="30" width="40" style="vertical-align:middle;"/>
+    <img src="https://raw.githubusercontent.com/dulshanchamika/dulshanchamika/4f9153bd5aca486161089bcbb298a27cf4c9ed01/icons/Instagram.svg" height="30" width="40" />
   </a>
 </p>
 
